@@ -1,5 +1,5 @@
 # chatbot
-An chatting bot which hears what you say, process and provides a sound response.
+A chatting bot which hears what you say, process and provides a sound response.
 
 Used open source libraries and models to create this bot.
 
